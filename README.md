@@ -73,3 +73,6 @@ Two additional visualizations that could be created for further analysis are:
 2. Checkout Times by User Type - Line graph
     - Similar to Checkout Times by Gender
     - this visualization will help us understand the needs required by each user type (subscriber vs customer) and whether we can target deals/incentives to convert  customers to subscribers 
+
+## Tableau Public Link
+[link to dashboard](https://public.tableau.com/views/NYCCitiBikeWorkbookModule14/NYCStory?:language=en-US&:display_count=n&:origin=viz_share_link)
