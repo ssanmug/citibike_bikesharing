@@ -4,7 +4,7 @@
 
 ### Purpose of Analysis
 
-The purpose of this analysis is to develop a deeper understanding of the business model, user statistics, and general business trends for CitiBike NYC in August 2018. We hope to use this valuable information as part of our business proposal to launch a CitiBike location in Des Moines, Iowa. We used Tableau Public to create many eye-catching visualizations describing key trends in NYC's bike-sharing program to convince our stakeholders that a bike-sharing program in Des Moines is a solid business proposal once we consider these trends when planning our own program. 
+The purpose of this analysis is to develop a deeper understanding of the business model, user statistics, and general business trends for CitiBike NYC in August 2019. We hope to use this valuable information as part of our business proposal to launch a CitiBike location in Des Moines, Iowa. We used Tableau Public to create many eye-catching visualizations describing key trends in NYC's bike-sharing program to convince our stakeholders that a bike-sharing program in Des Moines is a solid business proposal once we consider these trends when planning our own program. 
 
 ## Results of NYC Analysis
 
@@ -62,7 +62,7 @@ The purpose of this analysis is to develop a deeper understanding of the busines
 
 ### Higher level summary
 
-Analysis of NYC CitiBike August 2018 data supports the success of a future Des Moines bike-sharing program pending it prioritizes the construction of rental locations in tourist sites/high-traffic areas and supports the workforce by ensuring enough bikes are available during the morning/evening rush. Des Moines should prioritize diversifying their customer/user pool and incentivizing customers to become subscribers. 
+Analysis of NYC CitiBike August 2019 data supports the success of a future Des Moines bike-sharing program pending it prioritizes the construction of rental locations in tourist sites/high-traffic areas and supports the workforce by ensuring enough bikes are available during the morning/evening rush. Des Moines should prioritize diversifying their customer/user pool and incentivizing customers to become subscribers. 
 
 Two additional visualizations that could be created for further analysis are:
 
